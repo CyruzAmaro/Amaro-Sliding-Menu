@@ -1,0 +1,34 @@
+C:\Users\COMPLAB1\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.exe
+C:\Users\COMPLAB1\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.deps.json
+C:\Users\COMPLAB1\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.runtimeconfig.json
+C:\Users\COMPLAB1\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.dll
+C:\Users\COMPLAB1\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.pdb
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding_Enum.Form1.resources
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.vbproj.GenerateResource.cache
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.AssemblyInfoInputs.cache
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.AssemblyInfo.vb
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.vbproj.CoreCompileInputs.cache
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.dll
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\refint\Sliding Enum.dll
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.pdb
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.genruntimeconfig.cache
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\ref\Sliding Enum.dll
+C:\Users\COMPLAB1\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding_Enum.Resources.resources
+C:\Users\Jayvee\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.exe
+C:\Users\Jayvee\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.deps.json
+C:\Users\Jayvee\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.runtimeconfig.json
+C:\Users\Jayvee\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.dll
+C:\Users\Jayvee\source\repos\Sliding Enum\bin\Debug\net8.0-windows\Sliding Enum.pdb
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding_Enum.Form1.resources
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding_Enum.Resources.resources
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.vbproj.GenerateResource.cache
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.AssemblyInfoInputs.cache
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.AssemblyInfo.vb
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.vbproj.CoreCompileInputs.cache
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.dll
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\refint\Sliding Enum.dll
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.pdb
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\Sliding Enum.genruntimeconfig.cache
+C:\Users\Jayvee\source\repos\Sliding Enum\obj\Debug\net8.0-windows\ref\Sliding Enum.dll
